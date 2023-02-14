@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "797211192522",
+    "project_id": "swim-sns",
+    "storage_bucket": "swim-sns.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797211192522:android:d909f8a46177aae86d9833",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797211192522-9vphu3lcnv7622mnf3rbkjv3sq4cuaqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsapp_ui",
+            "certificate_hash": "af090f70d2140a574f37db452334662090d24695"
+          }
+        },
+        {
+          "client_id": "797211192522-semrav1vdsa74aa99om075j96cpr2c14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvHLdFYToPnbISEFhyNbSiuyCBQG6DmME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797211192522-semrav1vdsa74aa99om075j96cpr2c14.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "797211192522-rjolh4c2ife5lsccfo9lhih9i5nvamv9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.swimsnsapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
